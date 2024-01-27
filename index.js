@@ -66,7 +66,7 @@ async function start() {
     bot.stop();
     process.exit(0);
   });
-
+#Started
   console.log("Starting the bot...");
   await bot.start();
 }
